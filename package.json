@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/srinjoyc/js_scraper/issues"
   },
-  "homepage": "https://github.com/srinjoyc/js_scraper#readme"
+  "homepage": "https://github.com/srinjoyc/js_scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "fast-csv": "^2.0.0",
+    "request": "^2.72.0"
+  }
 }
